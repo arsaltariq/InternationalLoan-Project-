@@ -1,6 +1,7 @@
 # InternationalLoan-Project-
 
-
+Objective-
+To show information of loan lend by different countries of the world using a bipartite graph.
 
 References- 
 https://profit.pakistantoday.com.pk/2019/05/23/pakistan-finally-opens-up-about-chinese-borrowing/\
@@ -16,4 +17,3 @@ https://tribune.com.pk/story/1953218/2-pakistan-takes-5-6b-foreign-loans-nine-mo
 https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=44350
 https://allafrica.com/stories/201809060485.html
 https://www.worldbank.org/en/news/press-release/2018/05/31/ghana-gets-support-from-the-world-bank-to-scale-up-commercial-agriculture
-
